@@ -1,4 +1,3 @@
-https://github.com/jmahmood/bbev#bbev
 evdev
 scipy
 git+https://github.com/jmahmood/bbev.git#egg=bbev
